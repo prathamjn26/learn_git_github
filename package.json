@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "this is is to learn node and git",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prathamjn26/learn_git_github.git"
+  },
+  "author": "Pratham jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prathamjn26/learn_git_github/issues"
+  },
+  "homepage": "https://github.com/prathamjn26/learn_git_github#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
