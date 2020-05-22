@@ -1,2 +1,1 @@
-# learn_git_github
-In this we will learn how to use git tools and commands
+I am editing the README file. Adding some more details about the project description.
